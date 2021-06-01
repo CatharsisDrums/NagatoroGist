@@ -1,0 +1,17 @@
+{
+  "title": "Ijiranaide, Nagatoro-san",
+  "description": "Chapters of Nagatoro missed due to MangaDex being down",
+  "artist": "Nanashi(774)",
+  "author": "Nanashi(774)",
+  "cover": "https://static.wikia.nocookie.net/please-dont-bully-me-nagatoro/images/8/8b/Volume_10.jpg/revision/latest?cb=20210223034946",
+  "chapters": {
+    "80": {
+      "title": "...if you win even a single match, Senpai",
+      "volume": "10",
+      "groups": {
+        "S.T.A.L.K.E.R": "/proxy/api/imgur/chapter/VD08JCP/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
